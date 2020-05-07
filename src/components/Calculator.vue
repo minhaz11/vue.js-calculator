@@ -128,6 +128,9 @@ export default {
         border-bottom-left-radius: 5px;
         border-bottom-right-radius: 5px;
     }
+    .btn:hover{
+        background: cornflowerblue;
+    }
     .operator{
         background: orange;
         color:white
